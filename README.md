@@ -13,14 +13,13 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Name** | **Role** | **GH username** | **Contact** |
 |:--- |:--- |:--- |:--- |
 | **John D. Martin III** | Professor |  [@jdmar3](https://github.com/jdmar3/) | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
-| **Cameron Simbeck** | TA | [@camsimba](https://github.com/camsimba/) | [camsimba@live.unc.edu](mailto:camsimba@live.unc.edu) |
-| **Alice Yu** | LA |  [@yuualice](https://github.com/yuualice/) | [yuualice@live.unc.edu](mailto:yuualice@live.unc.edu) |
-| **Dylan Yang** | LA | [@dyang103](https://github.com/dyang103) | [dyang103@live.unc.edu](mailto:dyang103@live.unc.edu) |
-| **Ellis Kay** | LA | [@smelliskay](https://github.com/orgs/comp426-2022-spring/people/smelliskay) | [smellis@live.unc.edu](mailto:smellis@live.unc.edu) |
-| **Jessica Wang** | LA | [@jessikka12](https://github.com/jessikka12/) | [jessikka@email.unc.edu](mailto:jessikka@email.unc.edu) |
-| **Lama Abed** | LA | [@lamaab02](https://github.com/lamaab02/) | [lamaab@email.unc.edu](mailto:lamaab@email.unc.edu) |
-| **Nila Thillaivanan** | LA | [@vennila-t](https://github.com/vennila-t/) | [vennila@email.unc.edu](mailto:vennila@email.unc.edu) |
-| **Ose Izokun** | LA | [@oizokun](https://github.com/oizokun/) | [oseizo@live.unc.edu](mailto:oseizo@live.unc.edu) |
+| **TBN** | TA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
+| **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
 
 A table of office hours availability will be available here: 
 
@@ -29,18 +28,17 @@ A table of office hours availability will be available here:
 ### Dates and times
 | | |
 |:--- |:--- |
-| **Time** | 08:00-09:15 |
+| **Time** | 17:00-16:15 |
 | **Days** | TU,TH |
-| **First day** | 2022-08-16 |
-| **Last day** | 2022-11-29 |
-| **Exam day** | 2022-12-08T12:00:00+04:00 |
+| **First day** | 2023-01-09 |
+| **Last day** | 2023-04-27 |
+| **Exam day** | TBA |
 
 | **_No class days_** | **Date** |
 |:--- |:--- |
-| _Wellness day_ | 2022-09-06 |
-| _Fall break_ | 2022-10-20 |
-| _Group work day_ | 2022-11-08 |
-| _Thanksgiving_ | 2022-11-24 |
+| _Well-being day_ | 2023-02-13 |
+| _Spring break_ | 2023-03-14 & 2023-03-16 |
+| _Well-being day_ | 2023-04-06 |
 
 ### Format and location
 
@@ -52,16 +50,16 @@ All sessions will be archived as well so that you may return to them or view the
 
 |     | **Location** | **Room/Link** | **Other info** |
 |:--- |:--- |:--- |:--- |
-| **In-person sessions** | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
-| **Remote sessions** | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D) |
-| **Archived sessions** | Panopto | https://uncch.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f6012de3-8e0c-42ff-945b-aef400c595f7 | (publicly available) |
+| **In-person sessions** | Hanes Art Center | Room 0121 |  |
+| **Remote sessions** | Zoom |  | Password: [Alan Turing's birthday in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Alan_Turing#:~:text=%C5%8B/%3B-,23%20June%201912,-%E2%80%93%207%20June%201954) |
+| **Archived sessions** | Panopto |  | (publicly available) |
 
 ### Course communication
 
 #### Questions about assignments
 
 **_ALL_** questions about assignments must be created as issues on the appropriate assignment _template_ repository in the course GitHub organization.
-You can find a list of template repositories where you can post issues in the [assignments repo](https://github.com/comp426-2022-fall/assignments/).
+You can find a list of template repositories where you can post issues in the [assignments repo](https://github.com/comp426-2022-spring/assignments/).
 
 This MUST be done BEFORE coming to office hours for help. Staff will not be able to help you if you do not create an issue first. 
 
@@ -116,14 +114,6 @@ Please read them thoroughly.
 
 - [Honor Code](./honor.md)
 - [Title IX](./title9.md)
-
-## Dinosaur
-
-Please follow the link below, accept the assignment, refresh the page, and follow the link to your assignment repository.
-
-Once you are there, follow the instructions in the README.md file.
-
-https://classroom.github.com/a/9_RF1Blr
 
 ## Disclaimer: Ch-ch-ch-ch-changes
 
