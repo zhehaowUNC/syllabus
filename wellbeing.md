@@ -10,7 +10,7 @@ There are resources available to you and we can help you find them.
 
 ### Help us help you
 
-If you are struggling, speak to a TA and/or the instructor.
+If you are struggling, speak to the instructor.
 
 We can and will make adjustments that will help you to better cope and thrive in this class.
 
@@ -22,4 +22,4 @@ CAPS is strongly committed to addressing the mental health needs of a diverse st
 
 Go to their website: https://caps.unc.edu/ or visit their facilities on the third floor of the Campus Health Services building for a walk-in evaluation to learn more.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
