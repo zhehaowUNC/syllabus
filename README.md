@@ -52,7 +52,7 @@ All sessions will be archived as well so that you may return to them or view the
 |     | **Location** | **Room/Link** | **Other info** |
 |:--- |:--- |:--- |:--- |
 | **In-person sessions** | Hanes Art Center | Room 0121 |  |
-| **Remote sessions** | Zoom |  | Password: [Alan Turing's birthday in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Alan_Turing#:~:text=%C5%8B/%3B-,23%20June%201912,-%E2%80%93%207%20June%201954) |
+| **Remote sessions** | Zoom | https://unc.zoom.us/j/96340566453 | Password: [Alan Turing's birthday in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Alan_Turing#:~:text=%C5%8B/%3B-,23%20June%201912,-%E2%80%93%207%20June%201954) |
 | **Archived sessions** | Panopto |  | (publicly available) |
 
 ### Course communication
