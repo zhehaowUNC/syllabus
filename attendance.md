@@ -43,4 +43,4 @@ If you have something to say, put it in the GH org discussions. Don't use GroupM
 
 So, use it. Also, we can see all of your activity in the audit log and will use this as the basis for your engagenment score for the class.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./main/README.md#course-policies-and-other-information)
