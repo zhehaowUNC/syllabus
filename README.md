@@ -13,6 +13,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Name** | **Role** | **GH username** | **Contact** |
 |:--- |:--- |:--- |:--- |
 | **John D. Martin III** | Professor |  [@jdmar3](https://github.com/jdmar3/) | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
+<!--
 | **TBN** | TA |  [@](https://github.com//) | [](mailto:) |
 | **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
 | **TBN** | LA |  [@](https://github.com//) | [](mailto:) |
@@ -24,7 +25,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 A table of office hours availability will be available here: 
 
 [Office hours schedule](./officehours.md)
-
+-->
 ### Dates and times
 | | |
 |:--- |:--- |
