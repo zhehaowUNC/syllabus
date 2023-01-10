@@ -8,8 +8,8 @@ The breakdown is as follows.
 | **Component** | **Description** | **Quantity** | **Points** | **Subtotal** |
 |:--- |:--- | ---:| ---:| ---:|
 | Assignments | Individual programming assignments | 10 | 50,000 | 500,000 |
-| *EITHER* Final project | Team-based app development | 1 | | |
-| *OR* Comprehensive final exam | 10 independent programming tasks | 300,000 | 300,000 |
+| *EITHER* Final project | Team-based app development | 1 or 0 | | |
+| *OR* Comprehensive final exam | 10 independent programming tasks | 1 or 0 | 300,000 | 300,000 |
 | Exams | Questionnaires | 3 | 50,000 | 150,000 |
 | Engagement | GitHub commits | 100 | 500 | 50,000 | 
 | **Total** |   |   |   | **1,000,000** |
