@@ -37,7 +37,7 @@ It is in your interest to keep up to date with assignments. They will track rela
 
 ### Final project assignment (a99)
 
-You will work on a team of three (3) people to build a web application. It can be whatever your team wants. the main purpose of the final project is learning how to collaborate in order to scope, plan, document, organize, and build a prototype. 
+If you elect to do so in lieu of a [comprehensive final exam](./exams.md#comprehensive-final-exam), you will work on a team of three (3) people to build a web application. It can be whatever your team wants. the main purpose of the final project is learning how to collaborate in order to scope, plan, document, organize, and build a prototype. 
 
 Your team will use GitHub to plan and manage your project. User the projects tool and the discussion board attached to your team's repository. 
 
@@ -50,4 +50,4 @@ All final project materials will be due on the day scheduled for the final exam.
 
 The assignment instructions repo will have more details.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
