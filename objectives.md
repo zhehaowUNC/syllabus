@@ -26,4 +26,4 @@ In addition to the above, students will be able to:
 - Plan and manage projects while collaborating with a team
 - Ask design questions for basic interaction flows
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
