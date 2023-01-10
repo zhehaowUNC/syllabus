@@ -22,4 +22,4 @@ The University of North Carolina at Chapel Hill facilitates the implementation o
 Accommodations are determined through the Office of Accessibility Resources and Service (ARS) for individuals with documented qualifying disabilities in accordance with applicable state and federal laws. 
 See the ARS Website for contact information: https://ars.unc.edu or email ars@unc.edu.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
