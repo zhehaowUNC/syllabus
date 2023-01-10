@@ -44,4 +44,4 @@ If you adapt open source code, then adhere to its license and make sure that you
 > 
 > And be kind. We're all working with a lot. It's easier if we work together instead of against one another.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
