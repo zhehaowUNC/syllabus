@@ -9,12 +9,14 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 - This is a class about building things that make the web go. 
 - We're going to learn how to do that by doing that. 
 - We use an array of languages and tools as needed.
+- It's about making a bunch of things work together.
 
 ### What ISN'T this class? 
 
 - This is not a class about HTML+CSS or JavaScript or any specific language or thing in particular. 
-- It's not about one thing. 
-- It's about making a bunch of things work together.
+- It's not about one thing.
+- It is not an difficult class if you are interested and engaged.
+- It is not an easy class if you think it is going to be an easy class.
 
 ### I heard this class is super easy?
 
@@ -52,8 +54,8 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 ### What about grades?
 
-- Grading will be done on a scale of 1,000,000 points. Literally.
-- Grading will also be done by robots.
+- Grading will be done on a scale of 1,000,000 points.
+- Most grading will also be done by robots.
 - You will write some of the instructions for the robots to grade your stuff. 
 - Grades are really not the point at all.
 
@@ -61,10 +63,11 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 - Yeah, but they are not really like the exams you are used to.
 - The exams assess familiarity with concepts and are really an assessment of my teaching rather than your ability to memorize things.
+- You can do a comprehensive final exam instead of a final project if you want. You decide. 
 
 ### What will class be like?
 
-- Sometimes I will talk about conceptual stuff on slides.
+- Sometimes I will talk about conceptual stuff on slides, but not a lot.
 - Sometimes I will do live demos of things related to your assignments.
 
 ### How do we do things?
@@ -98,4 +101,4 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 - Oh no... I don't care.
 - It's SUPER DUPER EASY to drop this class if you don't like it.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
