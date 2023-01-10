@@ -62,4 +62,4 @@ Welcome home.
 > 
 > You're welcome.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
