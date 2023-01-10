@@ -82,6 +82,10 @@ _If your communication is about general course information or course topics, the
 
 There are hundreds of members of this class and few instructional staff. The systems that we have set up to address communication are there to manage this workload so that we may provide you with the information you need while also not burning ourselves out.
 
+### Dinosaurs
+
+Follow this link and figure out what to do next: https://classroom.github.com/a/Wr5qjbcJ.
+
 ### Course policies and other information
 
 The links below will take you to other information, policies, and procedures related to the course.
