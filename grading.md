@@ -8,7 +8,8 @@ The breakdown is as follows.
 | **Component** | **Description** | **Quantity** | **Points** | **Subtotal** |
 |:--- |:--- | ---:| ---:| ---:|
 | Assignments | Individual programming assignments | 10 | 50,000 | 500,000 |
-| Final project | Team-based app development | 1 | 300,000 | 300,000 |
+| *EITHER* Final project | Team-based app development | 1 | | |
+| *OR* Comprehensive final exam | 10 independent programming tasks | 300,000 | 300,000 |
 | Exams | Questionnaires | 3 | 50,000 | 150,000 |
 | Engagement | GitHub commits | 100 | 500 | 50,000 | 
 | **Total** |   |   |   | **1,000,000** |
@@ -65,4 +66,4 @@ You should easily be able to record over 100 commits over the course of the seme
 
 In fact, you should have WAY more than that if you are using Git and GitHub properly throughout the semester.
 
-[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
+[**RETURN TO MAIN SYLLABUS PAGE**](./README.md#course-policies-and-other-information)
