@@ -24,7 +24,7 @@ These assessments are designed to evaluate our teaching effectiveness as much as
 
 ### Comprehensive Final Exam
 
-There is an option to take a comprehensive final exam instead of conducting at collaborative software development project.
+There is an option to take a comprehensive final exam instead of conducting a [collaborative software development project](./assignments.md#final-project-assignment-a99).
 
 You are given the option of choosing one or the other on the first day of class.
 
