@@ -33,7 +33,7 @@ A table of office hours availability will be available here:
 | **Days** | TU,TH |
 | **First day** | 2023-01-09 |
 | **Last day** | 2023-04-27 |
-| **Exam day** | TBA |
+| **Exam day** | 2023-05-05 19:00 |
 
 | **_No class days_** | **Date** |
 |:--- |:--- |
@@ -53,7 +53,7 @@ All sessions will be archived as well so that you may return to them or view the
 |:--- |:--- |:--- |:--- |
 | **In-person sessions** | Hanes Art Center | Room 0121 |  |
 | **Remote sessions** | Zoom | https://unc.zoom.us/j/96340566453 | Password: [Alan Turing's birthday in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Alan_Turing#:~:text=%C5%8B/%3B-,23%20June%201912,-%E2%80%93%207%20June%201954) |
-| **Archived sessions** | Panopto |  | (publicly available) |
+| **Archived sessions** | Panopto | https://uncch.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=19872ac0-1b5a-4093-af2a-af88015ddb9b | (publicly available) |
 
 ### Course communication
 
