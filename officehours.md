@@ -11,6 +11,15 @@ Office hours will be listed in the table below and updated when there are change
 
 | Day of week | Time (EST) | Name | Format | Location | 
 | --- | --- | --- | --- | --- |
-| TDB | TDB | TDB | TDB | TDB |
-
+| Monday | 10:00am - 12:00pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Monday | 10:00am - 12:00pm | Mahitha Reddy | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Monday | 12:00pm- 2:00pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Wednesday | 10:00am - 12:00pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Wednesday | 10:00am - 12:00pm | Mahitha Reddy | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Wednesday | 12:00pm- 2:00pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Wednesday | 4:30pm- 6:30pm | Jen Chen | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Thursday | 3:00pm- 5:00pm | Jen Chen | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Friday | 10:00am - 11:00am | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Friday | 10:00am - 11:00am | Mahitha Reddy | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Friday | 1:00pm- 2:00pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
 [**RETURN TO MAIN SYLLABUS PAGE**](./README.md#instructional-staff)
