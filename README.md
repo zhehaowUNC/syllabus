@@ -24,7 +24,8 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Mahitha Reddy** | LA |  [@Mahithakr](https://github.com/Mahithakr/) | [mreddy@unc.edu](mailto:mreddy@unc.edu) |
 | **Zhehao Wang** | LA |  [@zhehaowUNC](https://github.com/zhehaowUNC/) | [zhehaow@email.unc.edu](mailto:zhehaow@email.unc.edu) |
 | **Tianyuan He** | LA |  [@hetianyuanjames](https://github.com/hetianyuanjames/) | [hty1016@ad.unc.edu](mailto:hty1016@ad.unc.edu) |
-A table of office hours availability will be available here: 
+
+A table of office hours availability is available here: 
 
 [Office hours schedule](./officehours.md)
 
