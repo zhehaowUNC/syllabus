@@ -22,4 +22,5 @@ Office hours will be listed in the table below and updated when there are change
 | Friday | 10:00am - 11:00am | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Friday | 10:00am - 11:00am | Mahitha Reddy | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Friday | 1:00pm- 2:00pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
+
 [**RETURN TO MAIN SYLLABUS PAGE**](./README.md#instructional-staff)
