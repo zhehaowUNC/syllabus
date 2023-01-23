@@ -16,9 +16,9 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Dylan Yang** | LA |  [@dyang103](https://github.com/dyang103/) | [dyang103@live.unc.edu](mailto:dyang103@live.unc.edu) |
 | **Ose Izokun** | LA |  [@oizokun](https://github.com/oizokun/) | [oseizo@live.unc.edu](mailto:oseizo@live.unc.edu) |
 | **Alice Yu** | LA |  [@yuualice](https://github.com/yuualice/) | [yuualice@live.unc.edu](mailto:yuualice@live.unc.edu) |
-| **Jeffrey Vincent** | LA |  [@](https://github.com/jeffreyjv/) | [jeffjv@live.unc.edu](mailto:jeffjv@live.unc.edu) |
+| **Jeffrey Vincent** | LA |  [@jeffreyjv](https://github.com/jeffreyjv/) | [jeffjv@live.unc.edu](mailto:jeffjv@live.unc.edu) |
 | **Lia Abed** | LA |  [@Lamaab02](https://github.com/Lamaab02/) | [lamaab@email.unc.edu](mailto:lamaab@email.unc.edu) |
-| **Nila Thillaivanan** | LA |  [@](https://github.com/vennila-t/) | [vennila@email.unc.edu](mailto:vennila@email.unc.edu) |
+| **Nila Thillaivanan** | LA |  [@vennila-t](https://github.com/vennila-t/) | [vennila@email.unc.edu](mailto:vennila@email.unc.edu) |
 | **Savitra Kulkarni** | LA |  [@SavitraKulkarni](https://github.com/SavitraKulkarni/) | [savitrak@live.unc.edu](mailto:savitrak@live.unc.edu) |
 | **Jen Chen** | LA |  [@daqichen](https://github.com/daqichen/) | [daqichen@live.unc.edu](mailto:daqichen@live.unc.edu) |
 | **Mahitha Reddy ** | LA |  [@Mahithakr](https://github.com/Mahithakr/) | [mreddy@unc.edu](mailto:mreddy@unc.edu) |
