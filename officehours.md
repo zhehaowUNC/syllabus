@@ -18,9 +18,11 @@ Office hours will be listed in the table below and updated when there are change
 | Tuesday | 10:00am - 12:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Tuesday | 1:00pm- 3:30pm | Jeffrey Vincent | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Tuesday | 1:00pm- 3:00pm | Zhehao Wang | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Tuesday | 1:00pm- 3:30pm | Tianyuan He | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Wednesday | 10:00am - 12:00pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Wednesday | 10:00am - 12:00pm | Mahitha Reddy | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Wednesday | 12:00pm- 2:00pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Wednesday | 2:00pm- 4:30pm | Tianyuan He | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Wednesday | 4:30pm- 6:30pm | Jen Chen | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Thursday | 11:00am - 12:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Thursday | 1:00pm- 3:30pm | Jeffrey Vincent | Remote | https://mydigitalhand.org/enrollment/37807 |
