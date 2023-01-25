@@ -6,10 +6,13 @@ All members of the instructional staff will hold office hours at different times
 For now, office hours will be held virtually using My Digital Hand (MDH) to manage the queue.
 Instructions for using MDH are listed here: https://mydigitalhand.org/support/how-to/get-help-at-office-hours
 
-> **IMPORTANT: _You must create an issue about what you need help with BEFORE joining office hours. 
-> This is so that the staff can have all the information they need in order to help you. If you have not created an issue, you will be asked to do so and returned to the queue._**
+> **IMPORTANT: _You MUST create an issue about what you need help with BEFORE joining office hours._**
+>  
+> This is so that the staff can have all the information they need in order to help you. 
+> 
+> If you have not created an issue, you will be asked to do so and returned to the queue.
 >
-> Please add a link to your issue on the My Digital Hand "Get Help Now" form where it says: "My problem is..."
+> Add the link to your issue on the My Digital Hand "Get Help Now" form where it says: "My problem is..."
 
 Office hours will be listed in the table below and updated when there are changes.
 
