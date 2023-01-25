@@ -10,7 +10,7 @@ Instructions for using MDH are listed here: https://mydigitalhand.org/support/ho
 >  
 > This is so that the staff can have all the information they need in order to help you. 
 > 
-> If you have not created an issue, you will be asked to do so and returned to the queue.
+> If you have not created an issue, you will be asked to do so and be returned to the queue.
 >
 > Add the link to your issue on the My Digital Hand "Get Help Now" form where it says: "My problem is..."
 
