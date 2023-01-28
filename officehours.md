@@ -46,7 +46,7 @@ Office hours will be listed in the table below and updated when there are change
 | Friday | 11:00pm- 1:00pm | Lia Abed| Remote | https://mydigitalhand.org/enrollment/37807 |
 | Friday | 12:00pm - 2:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Friday | 12:10pm- 1:10pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/37807 |
-| Friday | 1:00pm- 2:00pm | Zhehao Wang | Remote | https://mydigitalhand.org/enrollment/37807 |
+| Friday | 2:00pm- 3:00pm | Zhehao Wang | Remote | https://mydigitalhand.org/enrollment/37807 |
 | Friday | 1:00pm - 3:00pm | Savitra Kulkarni | Remote | https://mydigitalhand.org/enrollment/37807 |
 
 
